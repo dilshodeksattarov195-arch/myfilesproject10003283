@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderfalidate",
+        "uuid": 3003945,
+        "checksum": "q9gxg"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
